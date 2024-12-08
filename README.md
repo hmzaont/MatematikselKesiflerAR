@@ -1,4 +1,7 @@
-# **Çığır Açan Buluşlar - Uçak İçi Eğlence Sistemi (AR Uygulaması)**
+# **Çığır Açan Buluşlar - Uçak İçi Eğlence Sistemi (MathMagicAR) (AR Uygulaması)**
+# **215541040 | HAMZA ONAT**
+### Trello : [MathMagicAR | Trello](https://hamzaonat.github.io/)
+### Web Site : [MathMagicAR | Web Site](https://hamzaonat.github.io/)
 
 Bu proje, uçak içi eğlence sistemi için geliştirilmiş bir **Artırılmış Gerçeklik (AR)** uygulamasıdır. Uygulama, "Çığır Açan Buluşlar" temasıyla çocuklara yönelik etkileşimli bir eğitim ve eğlence deneyimi sunmayı amaçlamaktadır. Uygulama, kullanıcıların **bilim insanlarının çığır açan icatlarını ve keşiflerini** AR teknolojisiyle görselleştirmelerini sağlar.
 
@@ -10,6 +13,14 @@ Bu proje, uçak içi eğlence sistemi için geliştirilmiş bir **Artırılmış
 - **Tema:** Çığır Açan Buluşlar (Matematik ve Bilim İnsanları).
 - **Modeller:** Uygulama içinde **glb** formatında bilimsel buluşlara yapan insanlara ilişkin modeller bulunmakta ve kullanıcı, bunlarla etkileşime girip bu insanların ne yaptıklarına dair bilgi alabilmektedir.
 - **Hedef Kitle:** Çocuklar ve genç yolcular.
+
+## 🛠️ Kullanılan Teknolojiler ve Araçlar
+- **Programlama Dili:** Kotlin
+- **Geliştirme Ortamı:** Android Studio
+- **AR Kütüphanesi:** SceneView
+- **Grafikler:** Android Adaptive Icons, GLB 3D modelleri
+- **Test Araçları:** Android Emulator, Fiziksel cihaz testleri
+- **Veritabanı:** `SharedPreferences`
 
 ## **📌 Proje Aşamaları**
 
@@ -39,7 +50,7 @@ Bu proje, uçak içi eğlence sistemi için geliştirilmiş bir **Artırılmış
 - Görsel hatalar giderildi ve son düzenlemeler yapıldı.
 
 ### **6. Hafta: GitHub Pages Yayını**
-- Tüm proje dosyaları GitHub’a yüklendi ve **GitHub Pages** üzerinden yayınlandı.
+- Tüm proje dosyaları GitHub’a yüklendi ve oluşturulan Web Sitesi **GitHub Pages** üzerinden yayınlandı.
 
 ### **7. Hafta: Son Aşamalar**
 - README dosyası güncellendi ve ekran görüntüleri eklendi.
@@ -55,10 +66,3 @@ Bu proje, uçak içi eğlence sistemi için geliştirilmiş bir **Artırılmış
 ### **AR Görselleştirme**
 ![AR Görselleştirme](screenshots/ar_visualization.png)
 
-## **🤝 Katkıda Bulunun**
-Katkılarınız bizim için değerli! Sorun bildirimi yapabilir veya pull request gönderebilirsiniz.
-
----
-
-## **📜 Lisans**
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
