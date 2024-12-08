@@ -61,7 +61,8 @@ Bu proje, uçak içi eğlence sistemi için geliştirilmiş bir **Artırılmış
 ## **🖼️ Ekran Görüntüleri**
 
 ### **Bilim İnsanı Modeli Görüntüsü**
-![Bilim İnsanı Modeli](screenshots/scientist_model.png)
+![Bilim İnsanı Modeli](![image](https://github.com/user-attachments/assets/3488ba02-27fd-4c99-be35-8efdfebba60c)
+)
 
 ### **AR Görselleştirme**
 ![AR Görselleştirme](screenshots/ar_visualization.png)
