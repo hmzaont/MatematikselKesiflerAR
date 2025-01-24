@@ -94,12 +94,12 @@ https://github.com/user-attachments/assets/5f01a2ec-48f6-4ab6-8d67-770107a8f143
 
 1. **APK Dosyasını İndirin:**
    - Uygulamayı indirip cihazınıza yüklemek için [MathMagicAR](https://mathmagicar.github.io/) web sitesini ziyaret edin, seçiminizi yapıp APK dosyasını indirin.
-   - Kurduğunuzda `Bilinmeyen Kaynaklara İzin Ver!` uyarısı geldiğinde `İzin Ver` seçeneğini seçip kurulumu tamamlayın.
+   - Kurduğunuzda `Bilinmeyen Kaynaklara İzin Ver` uyarısı geldiğinde `İzin Ver` seçeneğini seçip kurulumu tamamlayın.
 
 2. **Kullanım:**
    - Uygulamayı açın ve kamera erişimine izin verin.
    - Kullanıcı giriş ekranına **Kullanıcı Adı: `1` | Şifre: `1`** olacak şekilde giriş yapın.
-   - Etrafınızda bulbildiğiniz düz yüzeye(masa üstü vb.) kameranızı doğrultun.
+   - Etrafınızda bulabildiğiniz düz yüzeye(masa üstü vb.) cihazınızın arka kamerasını doğrultun.
    - Bilim insanlarının modelleri ve bilgileri ekrana gelecektir.
    - **Yerleştir** butonuna basıp istediğiniz modele dokunup sürüklediğinizde kendisiyle alakalı hem sesli hem de görsel olarak bilgi verecektir.
 
