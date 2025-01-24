@@ -3,7 +3,7 @@
 ## **215541040 | HAMZA ONAT**
 
 ### Trello : [MathMagicAR | Trello](https://trello.com/b/Xkfn7KbW/ymgk-matematiksel-buluslar-ar-projesi)
-### Web Site : [MathMagicAR | Web Site](https://hmzaontdev.github.io/)
+### Web Site : [MathMagicAR | Web Site](https://mathmagicar.github.io/)
 ### Tanıtım Videosu (YouTube) : [MathMagicAR | YouTube Tanıtım Videosu](https://youtube.com/shorts/9_L1UuntjSE?feature=share)
 
 Bu proje, uçak içi eğlence sistemi için geliştirilmiş bir **Artırılmış Gerçeklik (AR)** uygulamasıdır. Uygulama, "Çığır Açan Buluşlar" temasıyla çocuklara yönelik etkileşimli bir eğitim ve eğlence deneyimi sunmayı amaçlamaktadır. Uygulama, kullanıcıların **bilim insanlarının çığır açan icatlarını ve keşiflerini** AR teknolojisiyle görselleştirmelerini sağlar.
@@ -90,7 +90,7 @@ https://github.com/user-attachments/assets/5f01a2ec-48f6-4ab6-8d67-770107a8f143
 ## **💾 Kurulum ve Kullanım**
 
 1. **APK Dosyasını İndirin:**
-   - Uygulamayı indirip cihazınıza yüklemek için [MathMagicAR](https://hmzaontdev.github.io/) web sitesini ziyaret edin, seçiminizi yapıp APK dosyasını indirin.
+   - Uygulamayı indirip cihazınıza yüklemek için [MathMagicAR](https://mathmagicar.github.io/) web sitesini ziyaret edin, seçiminizi yapıp APK dosyasını indirin.
    - Kurduğunuzda `Bilinmeyen Kaynaklara İzin Ver!` uyarısı geldiğinde `İzin Ver` seçeneğini seçip kurulumu tamamlayın.
 
 2. **Kullanım:**
