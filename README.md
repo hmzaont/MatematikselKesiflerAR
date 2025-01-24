@@ -4,6 +4,7 @@
 
 ### Trello : [MathMagicAR | Trello](https://trello.com/b/Xkfn7KbW/ymgk-matematiksel-buluslar-ar-projesi)
 ### Web Site : [MathMagicAR | Web Site](https://hmzaontdev.github.io/)
+### Tanıtım Videosu (YouTube) : [MathMagicAR | YouTube Tanıtım Videosu](https://youtube.com/shorts/9_L1UuntjSE?feature=share)
 
 Bu proje, uçak içi eğlence sistemi için geliştirilmiş bir **Artırılmış Gerçeklik (AR)** uygulamasıdır. Uygulama, "Çığır Açan Buluşlar" temasıyla çocuklara yönelik etkileşimli bir eğitim ve eğlence deneyimi sunmayı amaçlamaktadır. Uygulama, kullanıcıların **bilim insanlarının çığır açan icatlarını ve keşiflerini** AR teknolojisiyle görselleştirmelerini sağlar.
 
