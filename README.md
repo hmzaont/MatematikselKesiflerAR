@@ -6,7 +6,7 @@
 ### Web Site : [MathMagicAR | Web Site](https://mathmagicar.github.io/)
 ### Tanıtım Videosu (YouTube) : [MathMagicAR | YouTube Tanıtım Videosu](https://youtube.com/shorts/9_L1UuntjSE?feature=share)
 ### THS Formu : [MathMagicAR | THS Formu](https://github.com/user-attachments/files/18541800/THS.xlsx)
-### UML Diyagramları : [MathMagicAR | UML Diyagramları](https://trello.com/b/Xkfn7KbW/ymgk-matematiksel-buluslar-ar-projesi)
+### UML Diyagramları - Proje Gereksinim Analizi - SWOT Analizi : [MathMagicAR | UML Diyagramları - Proje Gereksinim Analizi - SWOT Analizi](https://trello.com/b/Xkfn7KbW/ymgk-matematiksel-buluslar-ar-projesi)
 
 
 Bu proje, uçak içi eğlence sistemi için geliştirilmiş bir **Artırılmış Gerçeklik (AR)** uygulamasıdır. Uygulama, "Çığır Açan Buluşlar" temasıyla çocuklara yönelik etkileşimli bir eğitim ve eğlence deneyimi sunmayı amaçlamaktadır. Uygulama, kullanıcıların **bilim insanlarının çığır açan icatlarını ve keşiflerini** AR teknolojisiyle görselleştirmelerini sağlar.
